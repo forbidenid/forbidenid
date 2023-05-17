@@ -23,7 +23,7 @@
   
   
 </div>
-
+---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -34,4 +34,4 @@
 </div>
 <!-- End Footer -->
   
-
+---
