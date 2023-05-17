@@ -21,17 +21,14 @@
       <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   </a>  </p>
   
-  
-</div>
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
+  <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:muriithidennis340@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
-<!-- End Footer -->
   
----
+</div>
+
+
+  
+
