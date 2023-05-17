@@ -6,7 +6,8 @@
 	
 	
 ---
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctrl-root&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes)](https://git.io/streak-stats)
+
 ---
    
 <div align="center">
