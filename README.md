@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://twitter.com/toor_ctrl" target="_blank">(#root)</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+
 
    
 <div align="center">
