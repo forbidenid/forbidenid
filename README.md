@@ -8,11 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=ctrl-root" height="150" alt="languages graph"  />
   
   ---
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes)](https://git.io/streak-stats)	
+[![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
 
 </div>
   
-  ---
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes)](https://git.io/streak-stats)	
-  ---
+
