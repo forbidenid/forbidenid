@@ -22,8 +22,6 @@
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a> <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
       <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a> <a href="http://metasploit.org/" target="_blank" rel="noreferrer">
-      <img  alt="metasploit" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original-wordmark.svg"/>
   </a> </p>
   
   <div class="footer" align="center" style="margin:15px;">
