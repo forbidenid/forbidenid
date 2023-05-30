@@ -7,8 +7,10 @@
 
    
 <div align="center">
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=root-codes)](https://github.com/anuraghazra/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-codes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+  
+  
   ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
