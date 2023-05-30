@@ -7,7 +7,8 @@
 
    
 <div align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)  
+           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
+  </div>
   ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
