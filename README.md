@@ -7,8 +7,13 @@
 
    
 <div align="center">
-           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
+          ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tutim-io/tutim&type=Date)](https://tutim.io/developers)
+
   </div>
+  
+  
   ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
