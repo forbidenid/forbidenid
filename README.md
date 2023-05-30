@@ -8,9 +8,6 @@
    
 <div align="center">
           ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tutim-io/tutim&type=Date)](https://tutim.io/developers)
-
   </div>
   
   
