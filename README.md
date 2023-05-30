@@ -7,10 +7,7 @@
 
    
 <div align="center">
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-codes&show_icons=true&theme=radical)
-  </div>
-  
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)  
   ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
