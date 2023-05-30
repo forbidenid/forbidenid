@@ -7,7 +7,7 @@
 
    
 <div align="center">
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/root-codes/github-readme-stats)
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=root-codes)](https://github.com/anuraghazra/github-readme-stats)
   ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---
