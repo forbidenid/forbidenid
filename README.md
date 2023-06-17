@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>🔥 Rex's Linux Dotfiles 🔥</b>
+  <b>🔥 bro c{od}e 🔥</b>
 </p> 
 
 
