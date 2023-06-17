@@ -3,6 +3,14 @@
   <h1>Hi there, I'm <a href="https://twitter.com/toor_ctrl" target="_blank">(#root)</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/Mangeshrex/dotfiles/main/etc/cat.gif">
+</p>
+
+<p align="center">
+  <b>🔥 Rex's Linux Dotfiles 🔥</b>
+</p> 
+
 
 
    
