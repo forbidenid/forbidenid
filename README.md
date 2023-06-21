@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/Mangeshrex/dotfiles/main/etc/cat.gif">
+  <img width="40%" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 </p>
 
 <p align="center">
