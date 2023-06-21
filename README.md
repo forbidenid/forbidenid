@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img width="40%" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+  <img width="40%" src="https://videohive.net/item/programming-web-code/14563792?irgwc=1&clickid=xK2Usg069xyPT1IyXUS9p1tJUkFxuv0RJzo%3ATg0&iradid=275988&irpid=300699&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_300699&utm_medium=affiliate&utm_source=impact_radius">
 </p>
 
 <p align="center">
