@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>🔥 I use Arch BTW 🔥</b>
+  <b>🔥 I Use Arch BTW 🔥</b>
 </p> 
 
 
