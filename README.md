@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img width="50%" lengtn="70%" src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif">
+  <img width="50%" lengtn="50%" src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif">
 </p>
 
 <p align="center">
