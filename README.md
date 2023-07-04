@@ -23,7 +23,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=root-codes&theme=dark)](https://git.io/streak-stats)
   ---	
   ---
-  [![Matej's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=root-codes_count=4&theme=react&hide_border=true&border_radius
+  
+[![Matej's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=root-codes_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
   ---
  
   <h3 align="center">Languages and Tools:</h3>
