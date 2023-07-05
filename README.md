@@ -12,6 +12,7 @@
 
 
 <p align="center">
+	<b>Visitor Counter</b>
 	<img src="https://profile-counter.glitch.me/root-codes/count.svg" />
 </p>
    
