@@ -10,10 +10,9 @@
   <b>🔥 I Use Arch BTW 🔥</b>
 </p> 
 
-
-<p align="center">
-	<b align="center">Visitor Counter</b>
-	<img src="https://profile-counter.glitch.me/root-codes/count.svg" />
+### <p align="center">Visitor counter<p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/root-codes/count.svg" />
 </p>
    
 <div align="center">
