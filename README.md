@@ -50,6 +50,7 @@
     </a>
 </div>
 
+![Arch Linux logo](/profile/archlinux-logo-dark-scalable.svg)
  
 </div>
 
