@@ -50,8 +50,7 @@
     </a>
 </div>
 
-![Arch Linux logo](/home/rut/root-codes/root-codes/archlinux-logo-dark-scalable.svg)
- 
+
 </div>
 
 
