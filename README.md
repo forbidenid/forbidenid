@@ -56,18 +56,23 @@
 </div>
 
 ```js
-const Name = "Muriithi Dennis";
-const currentFocus = "web development";
+const Name = "payload";
+const currentFocus = "web dev";
 
-console.log("*************************************************************");
-console.log("******************** " + code + " *******************");
-console.log("*************************************************************");
-console.log("🎉 Welcome to my github repo!");
-console.log("🔥 I'm " + Name + ", a dev.");
-console.log("🔍 Currently focusing on " + currentFocus + ".");
-console.log("if you want to work on something Just reach out");
+const line = "*".repeat(60);
+const header = `${line}\n${" ".repeat(20)}${hehe}\n${line}`;
+const welcomeMessage = `🎉 Welcome to my github page!`;
+const developerInfo = `🔥 I'm ${Name}, a very talented web developer.`;
+const focusMessage = `🔍 Currently focusing on ${currentFocus}.`;
+const contactMessage = `hey if you want to work on something`;
 
-  ```
+console.log(header);
+console.log(welcomeMessage);
+console.log(developerInfo);
+console.log(focusMessage);
+console.log(contactMessage);
+
+```
 
   
 
