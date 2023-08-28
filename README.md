@@ -21,19 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14payload" height="150" alt="languages graph"  />
 	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14payload&theme=nord_dark" />
   
-  ```js
-  const Name = "Muriithi Dennis";
-const currentFocus = "web development";
-
-console.log("*************************************************************");
-console.log("******************** " + code + " *******************");
-console.log("*************************************************************");
-console.log("🎉 Welcome to my github repo!");
-console.log("🔥 I'm " + Name + ", a dev.");
-console.log("🔍 Currently focusing on " + currentFocus + ".");
-console.log("if you want to work on something Just reach out");
-
-  ```
+  
 	
  ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=14payload&theme=dark)](https://git.io/streak-stats)
@@ -66,7 +54,19 @@ console.log("if you want to work on something Just reach out");
 
 
 </div>
+```js
+  const Name = "Muriithi Dennis";
+const currentFocus = "web development";
 
+console.log("*************************************************************");
+console.log("******************** " + code + " *******************");
+console.log("*************************************************************");
+console.log("🎉 Welcome to my github repo!");
+console.log("🔥 I'm " + Name + ", a dev.");
+console.log("🔍 Currently focusing on " + currentFocus + ".");
+console.log("if you want to work on something Just reach out");
+
+  ```
 
   
 
