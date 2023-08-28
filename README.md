@@ -56,7 +56,7 @@
 </div>
 
 ```js
-  const Name = "Muriithi Dennis";
+const Name = "Muriithi Dennis";
 const currentFocus = "web development";
 
 console.log("*************************************************************");
