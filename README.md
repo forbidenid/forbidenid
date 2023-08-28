@@ -14,6 +14,25 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/14payload/count.svg" />
 </p>
+
+```js
+const Name = "payload";
+const currentFocus = "web dev";
+
+const line = "*".repeat(60);
+const header = `${line}\n${" ".repeat(20)}${hehe}\n${line}`;
+const welcomeMessage = `🎉 Welcome to my github page!`;
+const developerInfo = `🔥 I'm ${Name}, a very talented web developer.`;
+const focusMessage = `🔍 Currently focusing on ${currentFocus}.`;
+const contactMessage = `hey if you want to work on something`;
+
+console.log(header);
+console.log(welcomeMessage);
+console.log(developerInfo);
+console.log(focusMessage);
+console.log(contactMessage);
+
+```
    
 <div align="center">
 
@@ -55,24 +74,7 @@
 
 </div>
 
-```js
-const Name = "payload";
-const currentFocus = "web dev";
 
-const line = "*".repeat(60);
-const header = `${line}\n${" ".repeat(20)}${hehe}\n${line}`;
-const welcomeMessage = `🎉 Welcome to my github page!`;
-const developerInfo = `🔥 I'm ${Name}, a very talented web developer.`;
-const focusMessage = `🔍 Currently focusing on ${currentFocus}.`;
-const contactMessage = `hey if you want to work on something`;
-
-console.log(header);
-console.log(welcomeMessage);
-console.log(developerInfo);
-console.log(focusMessage);
-console.log(contactMessage);
-
-```
 
   
 
