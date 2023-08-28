@@ -41,7 +41,7 @@ console.log(contactMessage);
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14payload" height="150" alt="languages graph"  />
 	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14payload&theme=nord_dark" />
   
-  <img src="https://wakatime.com/share/@14payload/175e16a1-cd8a-45de-907e-3c6392beafea.svg" height="400"/>
+  <img src="https://wakatime.com/share/@14payload/175e16a1-cd8a-45de-907e-3c6392beafea.svg" height="200"/>
 	
  ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=14payload&theme=dark)](https://git.io/streak-stats)
