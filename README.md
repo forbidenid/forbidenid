@@ -18,9 +18,10 @@
 ```js
 const Name = "payload";
 const currentFocus = "web dev";
+const code = "hey dev turn that coffee into code!!";
 
 const line = "*".repeat(60);
-const header = `${line}\n${" ".repeat(20)}${hehe}\n${line}`;
+const header = `${line}\n${" ".repeat(20)}${code}\n${line}`;
 const welcomeMessage = `🎉 Welcome to my github page!`;
 const developerInfo = `🔥 I'm ${Name}, a very talented web developer.`;
 const focusMessage = `🔍 Currently focusing on ${currentFocus}.`;
