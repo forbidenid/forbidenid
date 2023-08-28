@@ -18,8 +18,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=14payload" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14payload" height="150" alt="languages graph"  />
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14payload&theme=nord_dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14payload&langs_count=8&theme=radical&layout=pie)]
+[![Im actually ken not 14payload](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)]
+  
 	
  ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=14payload&theme=dark)](https://git.io/streak-stats)
@@ -56,3 +57,5 @@
 
   
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14payload" height="150" alt="languages graph"  />
+	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14payload&theme=nord_dark" />
