@@ -43,16 +43,7 @@ console.log(contactMessage);
   
   <img src="https://wakatime.com/share/@14payload/175e16a1-cd8a-45de-907e-3c6392beafea.svg" height="350"/>
 
- ```javascript
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@14payload/4efaf386-96ae-481e-ae7b-ba5686d847c1.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-```
+ 
 	
  ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=14payload&theme=dark)](https://git.io/streak-stats)
