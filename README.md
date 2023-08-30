@@ -5,6 +5,7 @@
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"
+	<i class="ci ci-spotify ci-2x"></i>
 />
 
 <p align="center">
