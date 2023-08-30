@@ -2,9 +2,10 @@
   <h1>Hi there, I'm <a href="https://twitter.com/14payload" target="_blank">(oneforpayload)</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align="center">
-  <img width="50%" lengtn="60%" src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif">
-</p>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"
+/>
 
 <p align="center">
   <b>🔥 I Use Arch BTW 🔥</b>
