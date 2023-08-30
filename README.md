@@ -13,28 +13,6 @@
   <img src="https://profile-counter.glitch.me/14payload/count.svg" />
 </p>
 
-```js
-const Name = "payload";
-const currentFocus = "web dev";
-const code = "hey dev turn that coffee into code!!";
-
-const line = "*".repeat(60);
-const header = `${line}\n${" ".repeat(20)}${code}\n${line}`;
-const welcomeMessage = `🎉 Welcome to my github page!`;
-const developerInfo = `🔥 I'm ${Name}, a very talented web developer.`;
-const focusMessage = `🔍 Currently focusing on ${currentFocus}.`;
-const contactMessage = `hey if you want to work on something`;
-
-console.log(header);
-console.log(welcomeMessage);
-console.log(developerInfo);
-console.log(focusMessage);
-console.log(contactMessage);
-
-```
-
-
-
 <div align="center">	
 
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=14payload" height="150" alt="stats graph"  />
