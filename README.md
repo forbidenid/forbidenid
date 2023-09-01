@@ -27,15 +27,6 @@
 
 
 </div>
-```js
-
-  if (collaborate === true) {
-     var emailId = "14payload@gmail.com";
-     // email is the best way to reach out to me.
-     sendEmail(emailId);
-  }
-
-```
 
 
 
