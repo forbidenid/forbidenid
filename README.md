@@ -2,7 +2,7 @@
   <h1><a href="https://twitter.com/14payload" target="_blank">(🔥 Hello 🔥)</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div> 
 
-<div align="center>
+<div align="center">
 	<!-- Ubuntu -->
     <a href="https://www.ubuntu.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
