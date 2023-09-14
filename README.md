@@ -3,9 +3,8 @@
 </div> 
 
 <div align="center">
-	<!-- Ubuntu -->
-    <a href="https://www.ubuntu.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+    <a href="https://archlinux.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/arch/arch-icon.svg" alt="arch" width="40" height="40"/>
     </a>
 </div>
 
