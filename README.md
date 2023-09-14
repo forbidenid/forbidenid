@@ -1,10 +1,12 @@
 
 <div align="center">
-	<br>🖥️ i use Arch BTW</br>
    I use <a href="https://archlinux.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
     </a> BTW
 </div>
+
+
+
 
 <p align="center">Visitors<p>
 <p align="center"> 
