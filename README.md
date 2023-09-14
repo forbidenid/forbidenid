@@ -5,11 +5,8 @@
     </a> BTW
 </div>
 <hr>
-<div align="center">
-Hi there 👋
+### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Shaheer;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg)
- 
-</div>
 
 
 <p align="center">Visitors<p>
