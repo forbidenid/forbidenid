@@ -1,3 +1,6 @@
+### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Payload;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg)
+
 <hr>
 <div align="center">
    I use <a href="https://archlinux.org/" target="_blank">
@@ -5,9 +8,6 @@
     </a> BTW
 </div>
 <hr>
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Shaheer;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg)
-
 
 <p align="center">Visitors<p>
 <p align="center"> 
