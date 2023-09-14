@@ -4,10 +4,7 @@
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
     </a> BTW
 </div>
-
-<br>
 <hr>
-</br>
 
 
 <p align="center">Visitors<p>
