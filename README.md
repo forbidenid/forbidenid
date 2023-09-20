@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Payload;I+am+a+Full+Stack+Developer;Talk+is+cheap+Show+me+the+code)](https://git.io/typing-svg)
 
-<hr>
 <div align="center">
-   I use <a href="https://archlinux.org/" target="_blank">
+   <a href="https://archlinux.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
-    </a> BTW
+    </a>
 </div>
-<hr>
 
 <p align="center">Visitors<p>
 <p align="center"> 
