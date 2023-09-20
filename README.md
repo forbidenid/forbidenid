@@ -7,11 +7,17 @@
   <img src="https://profile-counter.glitch.me/14payload/count.svg" />
 </p>
 
-<div align="left">
-	
+<div>
+	<div align="left">
    <a href="https://archlinux.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
     </a>
+	</div>
+	<div align="right">
+   <a href="https://archlinux.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
+    </a>
+	</div>
 </div>
 <br>
 
