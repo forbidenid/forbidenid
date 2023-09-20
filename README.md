@@ -7,12 +7,13 @@
   <img src="https://profile-counter.glitch.me/14payload/count.svg" />
 </p>
 
-<div align="center">
+<div align="left">
 	
    <a href="https://archlinux.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
     </a>
 </div>
+<br>
 
 <div align="center">	
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=14payload" height="150" alt="stats graph"  />
