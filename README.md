@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/14archie/count.svg" />
 </p>
 
-<div align="left">
+<div align="center">
    <a href="https://archlinux.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
     </a>
