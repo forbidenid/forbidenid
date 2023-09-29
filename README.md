@@ -20,9 +20,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14archie" height="130" alt="languages graph"  />
 	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14archie&theme=nightowl" height="130" alt="Contributions Profile" />
 
- <!---
  [![GitHub Streak](https://streak-stats.demolab.com/?user=14archie&theme=nightowl)](https://git.io/streak-stats)
-  -->
+  
   
   ## 💰 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toor) 
