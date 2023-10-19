@@ -1,17 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hey%2C+It's+Payload☠️;Pentester+I+Love+Hacking)](https://git.io/typing-svg)
 
 
+<div align="center">
+   <a href="https://archlinux.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
+    </a>
+</div>
 
 <br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/14payload/count.svg" />
 </p>
 
-<div align="center">
-   <a href="https://archlinux.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
-    </a>
-</div>
+
 	
 <br>
 
