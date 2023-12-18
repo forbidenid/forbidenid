@@ -9,7 +9,7 @@
 
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/14payload/count.svg" />
+  <img src="https://profile-counter.glitch.me/RedTeamerGray/count.svg" />
 </p>
 
 
@@ -17,11 +17,11 @@
 <br>
 
 <div align="center">	
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=14payload" height="130" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=14payload" height="130" alt="languages graph"  />
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14payload&theme=nightowl" height="130" alt="Contributions Profile" />
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=RedTeamerGray" height="130" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=RedTeamereGray" height="130" alt="languages graph"  />
+	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedTeamerGray&theme=nightowl" height="130" alt="Contributions Profile" />
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=14payload&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=RedTeamerGray&theme=nightowl)](https://git.io/streak-stats)
   
   
   ## 💰 
