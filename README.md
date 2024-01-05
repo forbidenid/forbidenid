@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+RedTeamerGray☠️;Give+me+A+Target+‼️;I+use+Arch+BTW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Gray☠️;Give+me+A+Target+‼️;I+use+Arch+BTW)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/RedTeamerGray/count.svg" />
+  <img src="https://profile-counter.glitch.me/GrayArch/count.svg" />
 </p>
 
 
@@ -17,11 +17,11 @@
 <br>
 
 <div align="center">	
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=RedTeamerGray" height="130" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=RedTeamerGray" height="129" alt="languages graph"  />
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedTeamerGray&theme=nightowl" height="129" alt="Contributions Profile" />
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=GrayArch" height="130" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=GrayArch" height="129" alt="languages graph"  />
+	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=nightowl" height="129" alt="Contributions Profile" />
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=RedTeamerGray&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=GrayArch&theme=nightowl)](https://git.io/streak-stats)
   
   
   ## 💰 
