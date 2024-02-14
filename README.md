@@ -15,7 +15,6 @@
 <div align="center">	
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=GrayArch" height="129" alt="languages graph"  />
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=nightowl" height="129" alt="Contributions Profile" />
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=GrayArch&theme=nightowl)](https://git.io/streak-stats)
   
