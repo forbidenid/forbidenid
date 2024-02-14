@@ -1,4 +1,10 @@
+<h3 align="center">
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Gray☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
+
+</h3>
 
 
 <div align="center">
@@ -15,8 +21,7 @@
 <div align="center">	
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=GrayArch&theme=nightowl)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=GrayArch&theme=tokyonight&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
   
   ## 💰 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toor) 
