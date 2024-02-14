@@ -27,7 +27,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green)
   
   <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:muriithidennis340@gmail.com" target="_blank">
