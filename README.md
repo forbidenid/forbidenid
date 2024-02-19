@@ -20,7 +20,7 @@
 
 <div align="center">	
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=AnneAdhiambo" height="129" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow-greenl&hide_border=false&username=AnneAdhiambo" height="129" alt="languages graph"  />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrayArch&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
