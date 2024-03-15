@@ -21,8 +21,13 @@
 <div align="center">	
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrayArch&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=shadow-green" height="129" alt="Contributions Profile" />
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=tokyonight) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GrayArch&theme=tokyonight)
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GrayArch&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrayArch&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrayArch&theme=tokyonight&utcOffset=8)
+ 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
   
