@@ -21,7 +21,7 @@
 <div align="center">	
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrayArch&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnneAdhiambo&theme=nightowl" height="129" alt="Contributions Profile" />
+<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=shadow-green" height="129" alt="Contributions Profile" />
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
