@@ -27,6 +27,7 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GrayArch&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrayArch&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrayArch&theme=tokyonight&utcOffset=8)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrayArch&theme=tokyonight&utcOffset=8)
  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
