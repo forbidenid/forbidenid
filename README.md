@@ -1,6 +1,5 @@
 <h3 align="center">
-	[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254112395869)
-
+![WhatsApp](https://img.shields.io/badge/WhatsApp-008000?style=flat&logo=whatsapp&logoColor=white)
 </h3>
 
 <h3 align="center">
