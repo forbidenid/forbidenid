@@ -1,6 +1,4 @@
-<h3 align="center">
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-008000?style=flat&logo=whatsapp&logoColor=white)
-</h3>
 
 <h3 align="center">
 
