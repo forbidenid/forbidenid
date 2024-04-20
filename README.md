@@ -1,9 +1,13 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Gray☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-008000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254112395869)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </h3>
 
 
