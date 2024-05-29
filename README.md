@@ -2,7 +2,7 @@
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Gray☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+Call+Me+Gray☠;I+use+Arch+BTW)](https://git.io/typing-svg)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-008000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254112395869)
 </h3>
