@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+GRAY+here☠;I+use+Arch+BTW)](https://git.io/typing-svg)
@@ -22,7 +20,6 @@
 <div align="center">	
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrayArch&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayArch&theme=tokyonight) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GrayArch&theme=tokyonight)
