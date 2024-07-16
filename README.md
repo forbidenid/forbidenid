@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Smasha☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Gray☠️;I+use+Arch+BTW)](https://git.io/typing-svg)
 
 </h3>
 
