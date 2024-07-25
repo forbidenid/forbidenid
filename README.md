@@ -9,7 +9,6 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumQ9&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumQ9&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumQ9&theme=tokyonight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantumQ9&theme=tokyonight&utcOffset=8)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow-green&border_radius=13)
   
   <div class="footer" align="center" style="margin:15px;">
