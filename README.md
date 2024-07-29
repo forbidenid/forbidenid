@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://archlinux.org/" target="_blank">
+   <a href="https://wiki.archlinux.org/title/User:Gray19/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="110" height="110"/> 
     </a>
 </div>
