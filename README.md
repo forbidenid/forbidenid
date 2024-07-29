@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://archlinux.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="60" height="60"/> 
+        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="90" height="90"/> 
     </a>
 </div>
 <div align="center">	
