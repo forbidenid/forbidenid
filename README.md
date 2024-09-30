@@ -14,7 +14,7 @@
 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=forbidenid&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=forbidenid" height="130" alt="stats graph"  />
+![](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=forbidenid")
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=forbidenid&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=forbidenid&theme=tokyonight)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=13)
